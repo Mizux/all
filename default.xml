@@ -6,6 +6,8 @@
 
 	<default revision="master" remote="origin" sync-s="true"/>
 
+	<project name="Mizux/all" path="all"/>
+
 	<project name="Mizux/config" path="config"/>
 	<project name="Mizux/cv" path="cv"/>
 
