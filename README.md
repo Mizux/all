@@ -21,6 +21,11 @@ repo init -u https://github.com/mizux/all.git
 
 note: To change/set your user.name and user.email simply use the option `--config-name`
 
+## Checkout master branch
+```sh
+repo start --all master
+```
+
 ## Update/Download all repo
 ```sh
 repo sync -j8
