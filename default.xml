@@ -21,4 +21,7 @@
 	<project name="Mizux/cmake-cpp" path="cmake-cpp"/>
 	<project name="Mizux/cmake-external" path="cmake-external"/>
 	<project name="Mizux/cmake-swig" path="cmake-swig"/>
+
+	<project name="Mizux/nodejs-101" path="nodejs-101"/>
+	<project name="Mizux/webapp-101" path="webapp-101"/>
 </manifest>
