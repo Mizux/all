@@ -29,8 +29,8 @@ repo sync -j8
 Now all is done ...
 
 ## Run command
-You can easily run a command on each repo using:
+You can easily run a command on each repo e.g.:
 ```sh
-repo forall -c 'echo "$REPO_PROJECT:"; git status' 
+repo forall -c 'echo "$REPO_PROJECT:"; git checkout master'
 ```
 
