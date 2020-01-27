@@ -16,6 +16,8 @@
 	<project name="Mizux/rftg" path="rftg"/>
 
 	<project name="Mizux/dice" path="dice"/>
+	
+	<project name="Mizux/minetest_texture_pack" path="minetest_texture_pack"/>
 
 	<project name="Mizux/cmake-cpp" path="cmake-cpp"/>
 	<project name="Mizux/cmake-external" path="cmake-external"/>
