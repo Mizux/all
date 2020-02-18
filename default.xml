@@ -10,6 +10,8 @@
 	<project name="Mizux/config" path="config"/>
 	<project name="Mizux/cv" path="cv"/>
 
+	<project name="Mizux/vim-colorschemes" path="vim-colorschemes"/>
+
 	<project name="Mizux/cardgame" path="cardgame"/>
 	<project name="Mizux/dobble" path="dobble"/>
 	<project name="Mizux/arcomage" path="arcomage"/>
