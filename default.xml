@@ -12,6 +12,8 @@
 
 	<project name="Mizux/vim-colorschemes" path="vim-colorschemes"/>
 
+	<project name="Mizux/inspect-ci" path="inspect-ci"/>
+
 	<project name="Mizux/cardgame" path="cardgame"/>
 	<project name="Mizux/dobble" path="dobble"/>
 	<project name="Mizux/arcomage" path="arcomage"/>
