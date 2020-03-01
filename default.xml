@@ -22,7 +22,7 @@
 	<project name="Mizux/dice" path="dice"/>
 
 	<project name="Mizux/svg" path="svg"/>
-	<project name="Mizux/minetest_texture_pack" path="minetest_texture_pack"/>
+	<project name="Mizux/minetest-textures" path="minetest-textures"/>
 
 	<project name="Mizux/dotnet-native" path="dotnet-native"/>
 
