@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="github" fetch="ssh://git@github.com/"/>
-	<remote name="gitlab" fetch="ssh://git@gitlab.com/"/>
+  <remote name="github" fetch="ssh://git@github.com/"/>
+  <remote name="gitlab" fetch="ssh://git@gitlab.com/"/>
 
-	<default revision="master" remote="github" sync-s="true"/>
+  <default revision="master" remote="github" sync-s="true"/>
 
-	<project name="Mizux/all" path="all"/>
+  <project name="Mizux/all" path="all"/>
 
-	<project name="Mizux/config" path="config"/>
-	<project name="Mizux/cv" path="cv"/>
+  <project name="Mizux/config" path="config"/>
+  <project name="Mizux/cv" path="cv"/>
+  <project name="Mizux/Mizux.github.io" path="Mizux.github.io"/>
 
-	<project name="Mizux/vim-colorschemes" path="vim-colorschemes"/>
+  <project name="Mizux/vim-colorschemes" path="vim-colorschemes"/>
 
-	<project name="Mizux/inspect-ci" path="inspect-ci"/>
+  <project name="Mizux/inspect-ci" path="inspect-ci"/>
 
-	<project name="Mizux/cardgame" path="cardgame"/>
-	<project name="Mizux/dobble" path="dobble"/>
-	<project name="Mizux/arcomage" path="arcomage"/>
-	<project name="Mizux/rftg" path="rftg"/>
+  <project name="Mizux/cardgame" path="cardgame"/>
+  <project name="Mizux/dobble" path="dobble"/>
+  <project name="Mizux/arcomage" path="arcomage"/>
+  <project name="Mizux/rftg" path="rftg"/>
 
-	<project name="Mizux/dice" path="dice"/>
+  <project name="Mizux/dice" path="dice"/>
 
-	<project name="Mizux/svg" path="svg"/>
-	<project name="Mizux/minetest-textures" path="minetest-textures"/>
+  <project name="Mizux/svg" path="svg"/>
+  <project name="Mizux/minetest-textures" path="minetest-textures"/>
 
-	<project name="Mizux/dotnet-native" path="dotnet-native"/>
+  <project name="Mizux/dotnet-native" path="dotnet-native"/>
 
-	<project name="Mizux/cmake-cpp" path="cmake-cpp"/>
-	<project name="Mizux/cmake-external" path="cmake-external"/>
-	<project name="Mizux/cmake-swig" path="cmake-swig"/>
+  <project name="Mizux/cmake-cpp" path="cmake-cpp"/>
+  <project name="Mizux/cmake-external" path="cmake-external"/>
+  <project name="Mizux/cmake-swig" path="cmake-swig"/>
 
-	<project name="Mizux/nodejs-101" path="nodejs-101"/>
-	<project name="Mizux/webapp-101" path="webapp-101"/>
+  <project name="Mizux/nodejs-101" path="nodejs-101"/>
+  <project name="Mizux/webapp-101" path="webapp-101"/>
 </manifest>
