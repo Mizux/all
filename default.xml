@@ -15,25 +15,26 @@
 
   <project name="Mizux/inspect-ci" path="inspect-ci"/>
 
-  <project name="Mizux/cardgame" path="cardgame"/>
-  <project name="Mizux/dobble" path="dobble"/>
   <project name="Mizux/arcomage" path="arcomage"/>
-  <project name="Mizux/rftg" path="rftg"/>
+  <project name="Mizux/cardgame"  path="cardgame"/>
+  <project name="Mizux/dice"      path="dice"/>
+  <project name="Mizux/dobble"    path="dobble"/>
+  <project name="Mizux/match3"    path="match3"/>
+  <project name="Mizux/rftg"      path="rftg"/>
 
-  <project name="Mizux/dice" path="dice"/>
 
   <project name="Mizux/svg" path="svg"/>
   <project name="Mizux/minetest-textures" path="minetest-textures"/>
 
   <project name="Mizux/dotnet-native" path="dotnet-native"/>
 
-  <project name="Mizux/cmake-cpp" path="cmake-cpp"/>
+  <project name="Mizux/cmake-cpp"      path="cmake-cpp"/>
   <project name="Mizux/cmake-external" path="cmake-external"/>
-  <project name="Mizux/cmake-swig" path="cmake-swig"/>
+  <project name="Mizux/cmake-swig"     path="cmake-swig"/>
 
   <project name="Mizux/nodejs-101" path="nodejs-101"/>
   <project name="Mizux/webapp-101" path="webapp-101"/>
-  
-  <project name="Mizux/cmake-ortools" path="cmake-ortools"/>
+
+  <project name="Mizux/cmake-ortools"  path="cmake-ortools"/>
   <project name="Mizux/docker-ortools" path="docker-ortools"/>
 </manifest>
