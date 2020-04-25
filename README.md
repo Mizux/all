@@ -5,6 +5,7 @@ Grab all repository using Google repo
 ## Installing repo
 First you need the *repo* binary.
 ```sh
+mkdir -p ~/.local/bin
 curl https://storage.googleapis.com/git-repo-downloads/repo > ~/.local/bin/repo
 chmod a+x ~/.local/bin/repo
 ```
