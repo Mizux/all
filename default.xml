@@ -23,7 +23,7 @@
   <project name="Mizux/gakkou"    path="gakkou"/>
   <project name="Mizux/match3"    path="match3"/>
   <project name="Mizux/rftg"      path="rftg"/>
-
+  <project name="Mizux/KalistoUnpacker" path="KalistoUnpacker"/>
 
   <project name="Mizux/svg" path="svg"/>
   <project name="Mizux/minetest-textures" path="minetest-textures"/>
