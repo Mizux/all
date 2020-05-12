@@ -29,6 +29,7 @@
   <project name="Mizux/minetest-textures" path="minetest-textures"/>
 
   <project name="Mizux/dotnet-native" path="dotnet-native"/>
+  <project name="Mizux/java-native"   path="java-native"/>
 
   <project name="Mizux/cmake-cpp"      path="cmake-cpp"/>
   <project name="Mizux/cmake-external" path="cmake-external"/>
