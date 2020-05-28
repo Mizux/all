@@ -15,8 +15,8 @@
 
   <project name="Mizux/inspect-ci" path="inspect-ci"/>
 
-	<!-- Few WIP Qt Apps-->
-	<project name="Mizux/cardgame"  path="cardgame"/>
+  <!-- Few WIP Qt Apps-->
+  <project name="Mizux/cardgame"  path="cardgame"/>
   <project name="Mizux/cybermage" path="cybermage"/>
   <project name="Mizux/dice"      path="dice"/>
   <project name="Mizux/dobble"    path="dobble"/>
