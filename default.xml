@@ -39,7 +39,4 @@
   <project name="Mizux/webapp-101" path="webapp-101"/>
   <project name="Mizux/babylonjs-101" path="babylonjs-101"/>
   <project name="Mizux/threejs-101" path="threejs-101"/>
-
-  <project name="Mizux/cmake-ortools"  path="cmake-ortools"/>
-  <project name="Mizux/docker-ortools" path="docker-ortools"/>
 </manifest>
