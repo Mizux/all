@@ -17,14 +17,14 @@ repo init -u ssh://git@github.com/Mizux/all.git
 ```
 ### Using https
 ```sh
-repo init -u https://github.com/mizux/all.git
+repo init -u https://github.com/Mizux/all.git
 ```
 
 note: To change/set your user.name and user.email simply use the option `--config-name`
 
-## Checkout master branch
+## Checkout main branch
 ```sh
-repo start --all master
+repo start --all main
 ```
 
 ## Update/Download all repo
@@ -37,6 +37,6 @@ Now all is done ...
 ## Run command
 You can easily run a command on each repo e.g.:
 ```sh
-repo forall -c 'echo "$REPO_PROJECT:"; git checkout master'
+repo forall -c 'echo "$REPO_PROJECT:"; git checkout main'
 ```
 
