@@ -19,6 +19,7 @@
   <project name="Mizux/pitchfork"      path="pitchfork"/>
   <project name="Mizux/cmake-cpp"      path="cmake-cpp"/>
   <project name="Mizux/cmake-external" path="cmake-external"/>
+  <project name="Mizux/cmake-pybind11" path="cmake-pybind11"/>
   <project name="Mizux/cmake-swig"     path="cmake-swig"/>
 
   <project name="Mizux/dotnet-native" path="dotnet-native"/>
