@@ -43,11 +43,11 @@
 
   <!-- Drawing -->
   <project name="Mizux/svg"               path="svg"/>
+  <project name="Mizux/threejs"           path="threejs"/>
   <project name="Mizux/minetest-textures" path="minetest-textures"/>
 
   <!-- Web -->
   <project name="Mizux/nodejs-101" path="nodejs-101"/>
   <project name="Mizux/webapp-101" path="webapp-101"/>
   <project name="Mizux/babylonjs-101" path="babylonjs-101"/>
-  <project name="Mizux/threejs-101" path="threejs-101"/>
 </manifest>
