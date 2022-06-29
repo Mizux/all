@@ -43,7 +43,9 @@
 
   <!-- Drawing -->
   <project name="Mizux/svg"               path="svg"/>
+  <project name="Mizux/canvas"            path="canvas"/>
   <project name="Mizux/threejs"           path="threejs"/>
+  <project name="Mizux/web"               path="web"/>
   <project name="Mizux/minetest-textures" path="minetest-textures"/>
 
   <!-- Web -->
