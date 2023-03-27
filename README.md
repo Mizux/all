@@ -40,3 +40,23 @@ You can easily run a command on each repo e.g.:
 repo forall -c 'echo "$REPO_PROJECT:"; git checkout main'
 ```
 
+## Troubleshooting
+
+On macOS you may have the following error :
+```sh
+Downloading Repo source from https://gerrit.googlesource.com/git-repo
+fatal: Cannot get https://gerrit.googlesource.com/git-repo/clone.bundle
+fatal: error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)
+fatal: double check your --repo-rev setting.
+fatal: cloning the git-repo repository failed, will remove '.repo/repo' 
+```
+
+workaround : you need to install python certificat...
+```sh
+# Check you python version
+$ python3 --version
+Python 3.11.0
+# Install the certificates using the provided script
+$ cd /Applications/Python\ 3.11
+$ ./Install\ Certificates.command
+```
