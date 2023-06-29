@@ -27,10 +27,11 @@
   <project name="Mizux/python-native" path="python-native"/>
 
   <!-- Bazel Primer -->
-  <project name="Mizux/bazel-cpp"      path="bazel-cpp"/>
-  <project name="Mizux/bazel-proto"    path="bazel-proto"/>
-  <project name="Mizux/bazel-pybind11" path="bazel-pybind11"/>
-  <project name="Mizux/bazel-swig"     path="bazel-swig"/>
+  <project name="Mizux/bazel-cpp"               path="bazel-cpp"/>
+  <project name="Mizux/bazel-proto"             path="bazel-proto"/>
+  <project name="Mizux/bazel-pybind11"          path="bazel-pybind11"/>
+  <project name="Mizux/bazel-pybind11-protobuf" path="bazel-pybind11-protobuf"/>
+  <project name="Mizux/bazel-swig"              path="bazel-swig"/>
 
   <!-- Few WIP Qt Apps -->
   <project name="Mizux/cardgame"        path="cardgame"/>
