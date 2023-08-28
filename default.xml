@@ -33,7 +33,7 @@
   <project name="Mizux/bazel-pybind11-protobuf" path="bazel-pybind11-protobuf"/>
   <project name="Mizux/bazel-swig"              path="bazel-swig"/>
 
-  <!-- Few WIP Qt Apps -->
+  <!-- Few WIP Apps -->
   <project name="Mizux/cardgame"        path="cardgame"/>
   <project name="Mizux/cybermage"       path="cybermage"/>
   <project name="Mizux/dice"            path="dice"/>
@@ -41,6 +41,7 @@
   <project name="Mizux/gakkou"          path="gakkou"/>
   <project name="Mizux/match3"          path="match3"/>
   <project name="Mizux/rftg"            path="rftg"/>
+  <project name="Mizux/sdlhana"            path="sdlhana"/>
   <project name="Mizux/KalistoUnpacker" path="KalistoUnpacker"/>
 
   <!-- Drawing -->
