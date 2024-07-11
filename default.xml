@@ -53,6 +53,7 @@
   <project name="Mizux/minetest-textures" path="minetest-textures"/>
 
   <!-- Web -->
+  <project name="Mizux/mhs2" path="mhs2"/>
   <project name="Mizux/nodejs-101" path="nodejs-101"/>
   <project name="Mizux/webapp-101" path="webapp-101"/>
   <project name="Mizux/babylonjs-101" path="babylonjs-101"/>
