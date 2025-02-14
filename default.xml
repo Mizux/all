@@ -11,6 +11,7 @@
   <project name="Mizux/config"           path="config"/>
   <project name="Mizux/vim-colorschemes" path="vim-colorschemes"/>
   <project name="Mizux/cv"               path="cv"/>
+  <project name="Mizux/notes"            path="notes"/>
 
   <!-- DevOps -->
   <project name="Mizux/inspect-ci" path="inspect-ci"/>
