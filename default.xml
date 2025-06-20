@@ -43,8 +43,11 @@
   <project name="Mizux/gakkou"          path="gakkou"/>
   <project name="Mizux/match3"          path="match3"/>
   <project name="Mizux/rftg"            path="rftg"/>
-  <project name="Mizux/sdlhana"            path="sdlhana"/>
+  <project name="Mizux/sdlhana"         path="sdlhana"/>
   <project name="Mizux/KalistoUnpacker" path="KalistoUnpacker"/>
+
+  <!-- Misc -->
+  <project name="Mizux/squirrel3"       path="squirrel3"/>
 
   <!-- Drawing -->
   <project name="Mizux/svg"               path="svg"/>
