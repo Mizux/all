@@ -7,6 +7,7 @@
 
   <project name="Mizux/all" path="all"/>
 
+  <!-- Personnal -->
   <project name="Mizux/Mizux.github.io"  path="Mizux.github.io"/>
   <project name="Mizux/config"           path="config"/>
   <project name="Mizux/vim-colorschemes" path="vim-colorschemes"/>
@@ -35,7 +36,7 @@
   <project name="Mizux/bazel-pybind11-protobuf" path="bazel-pybind11-protobuf"/>
   <project name="Mizux/bazel-swig"              path="bazel-swig"/>
 
-  <!-- Few WIP Apps -->
+  <!-- C++ Apps -->
   <project name="Mizux/cardgame"        path="cardgame"/>
   <project name="Mizux/cybermage"       path="cybermage"/>
   <project name="Mizux/dice"            path="dice"/>
@@ -46,19 +47,21 @@
   <project name="Mizux/sdlhana"         path="sdlhana"/>
   <project name="Mizux/KalistoUnpacker" path="KalistoUnpacker"/>
 
-  <!-- Misc -->
+  <!-- C++ Libraries -->
   <project name="Mizux/squirrel3"       path="squirrel3"/>
 
-  <!-- Drawing -->
+  <!-- Web Drawing -->
   <project name="Mizux/svg"               path="svg"/>
   <project name="Mizux/canvas"            path="canvas"/>
   <project name="Mizux/threejs"           path="threejs"/>
   <project name="Mizux/web"               path="web"/>
   <project name="Mizux/minetest-textures" path="minetest-textures"/>
 
-  <!-- Web -->
+  <!-- Web App -->
   <project name="Mizux/mhs2" path="mhs2"/>
   <project name="Mizux/nodejs-101" path="nodejs-101"/>
   <project name="Mizux/webapp-101" path="webapp-101"/>
   <project name="Mizux/babylonjs-101" path="babylonjs-101"/>
+  <project name="Mizux/three-test"    path="three-test"/>
+  <project name="Mizux/vite-threejs-ts-template" path="vite-threejs-ts-template"/>
 </manifest>
