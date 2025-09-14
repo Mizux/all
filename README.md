@@ -9,10 +9,15 @@ mkdir -p ~/.local/bin
 curl https://storage.googleapis.com/git-repo-downloads/repo > ~/.local/bin/repo
 chmod a+x ~/.local/bin/repo
 ```
+or
+```sh
+yay -S extra/repo
+```
 
 ## Getting the manifest
 ### Using ssh
 ```sh
+mkdir -pv ~/dev/repo && cd ~/dev/repo
 repo init -u ssh://git@github.com/Mizux/all.git
 ```
 ### Using https
