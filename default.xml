@@ -63,5 +63,5 @@
   <project name="Mizux/webapp-101" path="webapp-101"/>
   <project name="Mizux/babylonjs-101" path="babylonjs-101"/>
   <project name="Mizux/three-test"    path="three-test"/>
-  <project name="Mizux/vite-threejs-ts-template" path="vite-threejs-ts-template"/>
+  <project name="Mizux/vite-ts-threejs" path="vite-ts-threejs"/>
 </manifest>
