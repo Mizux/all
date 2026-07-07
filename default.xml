@@ -23,6 +23,7 @@
   <project name="Mizux/cmake-external"   path="cmake-external"/>
   <project name="Mizux/cmake-pybind11"   path="cmake-pybind11"/>
   <project name="Mizux/cmake-swig"       path="cmake-swig"/>
+  <project name="Mizux/cmake-sdl3"       path="cmake-sdl3"/>
   <project name="Mizux/cmake-sdl3-imgui" path="cmake-sdl3-imgui"/>
 
   <project name="Mizux/dotnet-native" path="dotnet-native"/>
